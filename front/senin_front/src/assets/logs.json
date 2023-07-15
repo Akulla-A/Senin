@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Dégâts",
+    "clr": "rgb(255, 0, 0)",
+    "sentence": "{0} a infligé {1} dégâts à {2} avec {3}"
+  }
+]
